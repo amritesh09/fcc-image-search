@@ -1,0 +1,25 @@
+{
+  "name": "image-search-abstraction-layer",
+  "version": "1.0.0",
+  "description": "freecodecamp api project",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "finalhandler": "^0.5.1",
+    "got": "^6.2.0",
+    "merge-descriptors": "^1.0.1",
+    "mongoose": "^4.4.10",
+    "node": "0.0.0",
+    "npm": "^3.8.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "elisecode247",
+  "license": "ISC"
+}
